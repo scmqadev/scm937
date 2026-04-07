@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rootObject _jt="IBFSMRObject" binary="false" defaultLng="en_US" dummy="false" expireDate="0" length="0" type="FexFile">
+    <properties size="5">
+        <entry key="InsightDesigner" value="true"/>
+        <entry key="LastDescribed" value="1775565513767"/>
+        <entry key="OutputFormat" value="AHTML"/>
+        <entry key="masters" value="&quot;ibisamp/car"/>
+        <entry key="tool" value="infoAssist,report,IAFull"/>
+    </properties>
+    <extendedProperties _jt="HashMap">
+        <entry>
+            <key _jt="string" value="_IA_Metadata"/>
+            <value _jt="string" value="-* Created By InfoAssist , ON: December 8, 2025, Version: 8207.28.15,ECC0B5&#10;-*Do not delete or modify the comments below&#10;*-INTERNAL_COMMENT LINE#0$PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8IS0tMS4wLS0+PFJvb3QgcmVsZWFzZT0iOS45LjkuOSIgdmVyc2lvbj0iMS40Ij4NCiAgICA8T2JqZWN0IG9iamVjdElkPSJUYWJsZUNoYXJ0XzEiPg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iY29tcG9uZW50Q3VzdG9tVGl0bGUiIHR5cGU9ImphdmEubGFuZy5Cb29sZWFuIj5mYWxzZTwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJMaW5rZWRTb3J0cyIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyIvPg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iSGlkZGVuRmllbGRzIiB0eXBlPSJNYXAiPg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iU29ydHMiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciLz4NCiAgICAgICAgICAgIDxFbnRyeSBrZXk9IlZlcmJzIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIi8+DQogICAgICAgIDwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJmb290ZXJEZWZhdWx0VmlzaWJsZSIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iPmZhbHNlPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9ImR1YWxCdWNrZXROdW1lcmljIiB0eXBlPSJNYXAiLz4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9IlRhYmxlVHlwZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+dGFibGVfZ3JpZDwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJXaGVyZVR5cGVzT3JkZXJlZCIgdHlwZT0iTGlzdCI+DQogICAgICAgICAgICA8RW50cnkgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+Q0RfV0hFUkU8L0VudHJ5Pg0KICAgICAgICA8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0icGFyYW1ldGVyVmFyaWFibGVQbGFjZUhvbGRlciIgdHlwZT0iTWFwIi8+DQogICAgPC9PYmplY3Q+DQogICAgPE9iamVjdCBvYmplY3RJZD0iR0xPQkFMIj4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9IlNhdmVTdGFydFRvb2xJblR5cGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPkNvbXBvc2U8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iR2xvYmFsUmVjb3JkTGltaXQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPjEwMDA8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iZmV4TGV2ZWxHcmF5T3V0RmllbGRzTW9kZSIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+ZmFsc2U8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0icnNfc2FtcGxpbmdfZW5hYmxlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5MSVZFX0RBVEE8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iU2FtcGxlRGF0YSIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iPmZhbHNlPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9Ikdsb2JhbFJlY29yZExpbWl0U2FtcGxlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj4wPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9IkZvY2V4ZWNQcmVmZXJlbmNlcyIgdHlwZT0iTWFwIj4NCiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRlZmF1bHRfcHJldmlld19wYWdlbGltaXQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPjU8L0VudHJ5Pg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iYXV0b0RyaWxsU2NyaXB0IiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIi8+DQogICAgICAgICAgICA8RW50cnkga2V5PSJlbmFibGVJbmZvTWluaV9TYXZlIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj50cnVlPC9FbnRyeT4NCiAgICAgICAgICAgIDxFbnRyeSBrZXk9Im1ldGFkYXRhX3ZpZXdzIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj5NZXRhRGF0YVRyZWUuVklFV19ESU1TPC9FbnRyeT4NCiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRlZmF1bHRfcHJldmlld19wYWdlbGltaXRfbGF5b3V0IiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj4xPC9FbnRyeT4NCiAgICAgICAgICAgIDxFbnRyeSBrZXk9ImRlZmF1bHRfY29tcG9zZV9mb3JtYXQiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPkFIVE1MPC9FbnRyeT4NCiAgICAgICAgICAgIDxFbnRyeSBrZXk9IklzR3JheU91dEZpZWxkc01vZGUiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPmZhbHNlPC9FbnRyeT4NCiAgICAgICAgPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9ImNhc2NhZGVOYW1lcyIgdHlwZT0iTWFwIi8+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJNYXN0ZXJfRmlsZXMiIHR5cGU9IlNldCI+DQogICAgICAgICAgICA8RW50cnkgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+aWJpc2FtcC9jYXI8L0VudHJ5Pg0KICAgICAgICA8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0ibWV0YWRhdGFWaWV3QXMiIHR5cGU9Ik1hcCI+DQogICAgICAgICAgICA8RW50cnkga2V5PSJpYmlzYW1wL2NhciIgdHlwZT0iamF2YS5sYW5nLlN0cmluZyI+TWV0YURhdGFUcmVlLlZJRVdfRElNUzwvRW50cnk+DQogICAgICAgIDwvUHJvcGVydHk+DQogICAgICAgIDxQcm9wZXJ0eSBuYW1lPSJSc19Gb2NjYWNoZV9TYW1wbGluZ19EYXRhX01hc3RlckZpbGVfTWFwIiB0eXBlPSJNYXAiPg0KICAgICAgICAgICAgPEVudHJ5IGtleT0iaWJpc2FtcC9jYXIiIHR5cGU9ImphdmEubGFuZy5TdHJpbmciPiBDUkVBVEVfU0FNUExJTkcgDQogeyZhbXA7cXVvdDtzb3VyY2VfYXBwJmFtcDtxdW90OyA6ICZhbXA7cXVvdDtpYmlzYW1wJmFtcDtxdW90OywNCiZhbXA7cXVvdDtzb3VyY2VfbmFtZSZhbXA7cXVvdDsgOiAmYW1wO3F1b3Q7Y2FyJmFtcDtxdW90Ow0KfQ0KRU5EDQo8L0VudHJ5Pg0KICAgICAgICA8L1Byb3BlcnR5Pg0KICAgICAgICA8UHJvcGVydHkgbmFtZT0iR2xvYmFsVmFsdWVzUGFnaW5nIiB0eXBlPSJqYXZhLmxhbmcuU3RyaW5nIj40PC9Qcm9wZXJ0eT4NCiAg&#10;*-INTERNAL_COMMENT LINE#1$ICAgICAgPFByb3BlcnR5IG5hbWU9IlBhZ2luYXRlZE91dHB1dEZvcm1hdCIgdHlwZT0iamF2YS5sYW5nLkJvb2xlYW4iPmZhbHNlPC9Qcm9wZXJ0eT4NCiAgICAgICAgPFByb3BlcnR5IG5hbWU9ImVuYWJsZVByZXZpZXciIHR5cGU9ImphdmEubGFuZy5Cb29sZWFuIj50cnVlPC9Qcm9wZXJ0eT4NCiAgICA8L09iamVjdD4NCjwvUm9vdD4NCg==&#10;-*Do not delete or modify the comments above&#10;"/>
+        </entry>
+    </extendedProperties>
+    <nlsValues _jt="HashMap">
+        <entry>
+            <key _jt="string" value="en_US"/>
+            <value _jt="ArrayList" size="2">
+                <item _jt="string" index="0" value="Visualization 1"/>
+            </value>
+        </entry>
+    </nlsValues>
+    <fexParameters _jt="ArrayList" size="2">
+        <item _jt="IBRFexParameter" amperFormat="A16" datadomain="CAR" description="CAR" index="0" multiselect="true" parent="" parmname="CAR" required="false">
+            <amperVarType class="com.ibi.wfrs.IBFSAmperVarType" name="defaultType"/>
+            <amperVar aggType="" amperIdx="16" chainIdx="-1" class="com.ibi.wfrs.IBFSWFDescribe$AmperVar" description="CAR" format="A16" idxInChain="-1" inForm="true" isDefault="true" max="0.0" min="0.0" name="CAR" noSelection="true" operation="OR" parent="" proc="" sortFields="" sortOrder="ASCENDING" strDef="_FOC_NULL" validate="">
+                <type class="com.ibi.wfrs.IBFSAmperVarType" name="defaultType"/>
+                <userDefValues _jt="array" itemsClass="string" size="1">
+                    <item _jt="string" index="0" value="_FOC_NULL"/>
+                </userDefValues>
+                <defValues _jt="array" itemsClass="string" size="1">
+                    <item _jt="string" index="0" value="_FOC_NULL"/>
+                </defValues>
+                <displayType class="com.ibi.wfrs.IBFSAmperDisplayType" name="find"/>
+                <values class="java.util.LinkedHashMap"/>
+                <dynValues class="com.ibi.wfrs.IBFSWFDescribe$DynamicAmper" displayField="" field="CAR.COMP.CAR" file="IBISAMP/CAR">
+                    <type class="com.ibi.wfrs.IBFSAmperDisplayType" name="find"/>
+                </dynValues>
+                <parameters _jt="HashMap"/>
+            </amperVar>
+        </item>
+        <item _jt="IBRFexParameter" amperFormat="" datadomain="RP_FL01B01_Sort1" description="Parameter List Name 1" index="1" multiselect="true" parent="" parmname="RP_FL01B01_Sort1" required="true">
+            <amperVarType class="com.ibi.wfrs.IBFSAmperVarType" name="unresolved"/>
+            <amperVar aggType="" amperIdx="17" chainIdx="-1" class="com.ibi.wfrs.IBFSWFDescribe$AmperVar" description="Parameter List Name 1" format="" idxInChain="-1" inForm="true" isDefault="false" max="0.0" min="0.0" name="RP_FL01B01_Sort1" noSelection="false" operation="ACROSS" parent="" proc="" sortFields="" sortOrder="" validate="">
+                <type class="com.ibi.wfrs.IBFSAmperVarType" name="unresolved"/>
+                <userDefValues _jt="array" itemsClass="string" size="0"/>
+                <defValues _jt="array" itemsClass="string" size="0"/>
+                <displayType class="com.ibi.wfrs.IBFSAmperDisplayType" name="staticType"/>
+                <values class="java.util.LinkedHashMap">
+                    <entry>
+                        <key _jt="string" value="Select All"/>
+                        <value _jt="string" value="FOC_ALL"/>
+                    </entry>
+                    <entry>
+                        <key _jt="string" value="SALES"/>
+                        <value _jt="string" value="CAR.BODY.SALES"/>
+                    </entry>
+                    <entry>
+                        <key _jt="string" value="MODEL"/>
+                        <value _jt="string" value="CAR.CARREC.MODEL"/>
+                    </entry>
+                </values>
+                <parameters _jt="HashMap"/>
+            </amperVar>
+        </item>
+    </fexParameters>
+</rootObject>
